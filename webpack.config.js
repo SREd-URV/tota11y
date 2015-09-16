@@ -21,7 +21,7 @@ module.exports = {
         app: "./index.js",
     },
     output: {
-        path: path.join(__dirname, "build"),
+        path: "./../../public/js",
         filename: "tota11y.min.js",
     },
     module: {
