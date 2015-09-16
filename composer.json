@@ -1,0 +1,11 @@
+{
+    "name": "root/tota11y",
+    "authors": [
+        {
+            "name": "Daniel Tomé",
+            "email": "danieltomefer@gmail.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
