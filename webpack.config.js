@@ -21,7 +21,7 @@ module.exports = {
         app: "./index.js",
     },
     output: {
-        path: "./../../../public/js",
+        path: "./../../public/js",
         filename: "tota11y.min.js",
     },
     module: {
